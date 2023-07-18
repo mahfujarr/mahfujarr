@@ -15,6 +15,6 @@ You can reach me on:
 - 😄 Pronouns: ...
 -->
 
-```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username)
-```
+'markdown
+![](Mahfujar Rahman)
+'
