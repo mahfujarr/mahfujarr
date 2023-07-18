@@ -16,5 +16,5 @@ You can reach me on:
 -->
 
 ```markdown
-![](mahfujarr)
+Mahfujar Rahman
 ```
