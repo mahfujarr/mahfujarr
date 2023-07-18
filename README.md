@@ -5,6 +5,7 @@
 
 ⚡ Fun fact: <Null>
 
+You can reach me on:
 
 ![](https://komarev.com/ghpvc/?username=mahfujarr&label=ThisProfileIsViewed )
 <!--
@@ -13,3 +14,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+
+```markdown
+![](https://komarev.com/ghpvc/?username=your-github-username)
+```
