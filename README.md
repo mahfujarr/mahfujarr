@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<img src="assets/kitty-kitten.gif"/> 
+
+ <!-- width="40" height="40" -->
+ 
+ 
 🌱 I’m currently learning Python
 
 
