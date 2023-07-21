@@ -1,15 +1,15 @@
 ### Hi there 👋
-
-<!-- <img src="assets/kitty-kitten.gif" />  -->
-
 ![Cat saying hello!](assets/kitty-kitten.gif)
-
-
-
- <!-- width="40" height="40" -->
  
- 
-🌱 I’m currently learning Python
+
+
+
+
+
+
+
+
+ 🌱 I’m currently learning Python
 
 
 <!-- ⚡ Fun fact: <Null> -->
