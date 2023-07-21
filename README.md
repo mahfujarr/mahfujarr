@@ -2,7 +2,7 @@
 
 <!-- <img src="assets/kitty-kitten.gif" />  -->
 
-![Cat saying hello!](assets/kitty-kitten.gif")
+![Cat saying hello!](assets/kitty-kitten.gif)
 
 
 
