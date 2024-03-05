@@ -1,6 +1,7 @@
 ### Hi there 👋
+<!--
 ![Cat saying hello!](assets/kitty-kitten.gif)
- 
+-->
 
 
 
