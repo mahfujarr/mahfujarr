@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE student<br>Currently learning C++
+CSE student<br>Currently learning C++ & Django
 
 
 ## 🌐 Socials:
