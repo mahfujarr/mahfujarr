@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Mahfujar+Rahman;CS+student;Currently+exploring+Web+Development" alt="Typing SVG" /></a>
+</p>
+
 # 💫 About Me:
 CSE student<br>Currently learning C++ & Django
 
